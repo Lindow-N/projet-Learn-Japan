@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projet-Learn-Japan/static/css/main.74c2d00c.chunk.css",
+    "main.js": "/projet-Learn-Japan/static/js/main.8f78d558.chunk.js",
+    "main.js.map": "/projet-Learn-Japan/static/js/main.8f78d558.chunk.js.map",
+    "runtime-main.js": "/projet-Learn-Japan/static/js/runtime-main.0cba84c3.js",
+    "runtime-main.js.map": "/projet-Learn-Japan/static/js/runtime-main.0cba84c3.js.map",
+    "static/css/2.4659568d.chunk.css": "/projet-Learn-Japan/static/css/2.4659568d.chunk.css",
+    "static/js/2.c09ec21e.chunk.js": "/projet-Learn-Japan/static/js/2.c09ec21e.chunk.js",
+    "static/js/2.c09ec21e.chunk.js.map": "/projet-Learn-Japan/static/js/2.c09ec21e.chunk.js.map",
+    "index.html": "/projet-Learn-Japan/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/projet-Learn-Japan/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.74c2d00c.chunk.css.map": "/projet-Learn-Japan/static/css/main.74c2d00c.chunk.css.map",
+    "static/js/2.c09ec21e.chunk.js.LICENSE.txt": "/projet-Learn-Japan/static/js/2.c09ec21e.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/projet-Learn-Japan/static/media/bg.ad18d8a1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cba84c3.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.c09ec21e.chunk.js",
+    "static/css/main.74c2d00c.chunk.css",
+    "static/js/main.8f78d558.chunk.js"
+  ]
+}
